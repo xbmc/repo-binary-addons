@@ -1,0 +1,1 @@
+pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple 14e2d58994f64703d278c06a958f961b4f4cce93

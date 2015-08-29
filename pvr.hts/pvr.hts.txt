@@ -1,0 +1,1 @@
+pvr.hts https://github.com/kodi-pvr/pvr.hts d2763613b050447b6eaaf7e11a4bcbcec2770314

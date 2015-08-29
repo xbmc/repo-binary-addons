@@ -1,0 +1,1 @@
+pvr.stalker https://github.com/kodi-pvr/pvr.stalker 36fec36f069a162812206cbd7201e37400812479

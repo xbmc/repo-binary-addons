@@ -1,0 +1,1 @@
+pvr.pctv https://github.com/kodi-pvr/pvr.pctv d00d5f8d60a6f26474a6030f20e3bac42d27dcb1

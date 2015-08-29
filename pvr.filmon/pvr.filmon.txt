@@ -1,0 +1,1 @@
+pvr.filmon https://github.com/kodi-pvr/pvr.filmon 8c444dc5842f5f0bbd5e00d40d6ced4501a5c33d
