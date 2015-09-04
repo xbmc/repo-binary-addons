@@ -1,0 +1,1 @@
+visualization.projectm https://github.com/wsnipex/visualization.projectm 26e9d4ea0ea83416d17f44704cec734f4eb4c35e
