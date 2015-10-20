@@ -1,3 +1,4 @@
 linux
-darwin
+osx
+ios
 windows
