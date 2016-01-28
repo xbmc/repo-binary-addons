@@ -1,1 +1,1 @@
-screensaver.asteroids https://github.com/notspiff/screensaver.asteroids master
+screensaver.asteroids https://github.com/notspiff/screensaver.asteroids c7ae05f1881b9abda6a1ac6beaca8d64a164c4fa

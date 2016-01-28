@@ -1,1 +1,1 @@
-audiodecoder.gme https://github.com/notspiff/audiodecoder.gme master
+audiodecoder.gme https://github.com/notspiff/audiodecoder.gme 03ac26b50259889834d11109d8bb4dc8b77758d2

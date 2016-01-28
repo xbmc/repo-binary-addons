@@ -1,1 +1,1 @@
-screensaver.pyro https://github.com/notspiff/screensaver.pyro master
+screensaver.pyro https://github.com/notspiff/screensaver.pyro 2476b77d9954980a27e07eb8eb0727e2af226351

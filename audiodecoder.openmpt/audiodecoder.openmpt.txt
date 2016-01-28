@@ -1,1 +1,1 @@
-audiodecoder.openmpt https://github.com/notspiff/audiodecoder.openmpt master
+audiodecoder.openmpt https://github.com/notspiff/audiodecoder.openmpt 8b680eb4de483c9bb6bce3391ace8956e8d74f5a

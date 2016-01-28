@@ -1,1 +1,1 @@
-screensaver.pingpong https://github.com/notspiff/screensaver.pingpong master
+screensaver.pingpong https://github.com/notspiff/screensaver.pingpong 5c7cf6fd9f9ff1468f620bb891e66bebd3a5fe17

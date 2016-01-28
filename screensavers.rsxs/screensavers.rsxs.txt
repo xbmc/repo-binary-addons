@@ -1,2 +1,2 @@
-screensavers.rsxs https://github.com/notspiff/screensavers.rsxs master
+screensavers.rsxs https://github.com/notspiff/screensavers.rsxs 3241d290917e99a3e88fca44e16d74c885a78b3d
 

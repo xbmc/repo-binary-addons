@@ -1,1 +1,1 @@
-audiodecoder.dumb https://github.com/notspiff/audiodecoder.dumb master
+audiodecoder.dumb https://github.com/notspiff/audiodecoder.dumb 5e899e1882755eabb2133c1a6d885f84530dc6bd

@@ -1,1 +1,1 @@
-visualization.projectm https://github.com/notspiff/visualization.projectm master
+visualization.projectm https://github.com/notspiff/visualization.projectm 8ca7efbe48cdb0a930505cf87cc115e067d223c4

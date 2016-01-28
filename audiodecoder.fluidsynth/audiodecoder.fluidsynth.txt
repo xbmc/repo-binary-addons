@@ -1,1 +1,1 @@
-audiodecoder.fluidsynth https://github.com/notspiff/audiodecoder.fluidsynth master
+audiodecoder.fluidsynth https://github.com/notspiff/audiodecoder.fluidsynth 4780e259cfb0487f8eb1395d9ca93689c3336546

@@ -1,1 +1,1 @@
-screensaver.biogenesis https://github.com/notspiff/screensaver.biogenesis master
+screensaver.biogenesis https://github.com/notspiff/screensaver.biogenesis 39928eef56ed639085d401dd97bf18f44b1f3e8b

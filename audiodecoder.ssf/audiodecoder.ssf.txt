@@ -1,1 +1,1 @@
-audiodecoder.ssf https://github.com/notspiff/audiodecoder.ssf master
+audiodecoder.ssf https://github.com/notspiff/audiodecoder.ssf 9513000cadb50b76ea5f5d0550743ee3501ab001

@@ -1,1 +1,1 @@
-audiodecoder.timidity https://github.com/notspiff/audiodecoder.timidity master
+audiodecoder.timidity https://github.com/notspiff/audiodecoder.timidity f649d32884a528f4af74c6f81980a58445c42bda
