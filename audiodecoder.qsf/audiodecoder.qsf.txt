@@ -1,1 +1,1 @@
-audiodecoder.qsf https://github.com/notspiff/audiodecoder.qsf 43307294fb162509cf58ba609893d0f3d8ff2d79
+audiodecoder.qsf https://github.com/notspiff/audiodecoder.qsf 83b18d7bcc99e32eee8817e84e4237e8c00398e8
