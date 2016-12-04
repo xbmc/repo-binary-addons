@@ -1,2 +1,2 @@
-pvr.zattoo https://github.com/trummerjo/pvr.zattoo master
+pvr.zattoo https://github.com/trummerjo/pvr.zattoo 0.1.23
 
