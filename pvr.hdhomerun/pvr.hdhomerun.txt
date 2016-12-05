@@ -1,1 +1,1 @@
-pvr.hdhomerun https://github.com/kodi-pvr/pvr.hdhomerun master
+pvr.hdhomerun https://github.com/kodi-pvr/pvr.hdhomerun Krypton

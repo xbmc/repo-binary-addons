@@ -1,1 +1,1 @@
-pvr.pctv https://github.com/kodi-pvr/pvr.pctv master
+pvr.pctv https://github.com/kodi-pvr/pvr.pctv Krypton

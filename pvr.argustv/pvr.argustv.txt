@@ -1,1 +1,1 @@
-pvr.argustv https://github.com/kodi-pvr/pvr.argustv master
+pvr.argustv https://github.com/kodi-pvr/pvr.argustv Krypton

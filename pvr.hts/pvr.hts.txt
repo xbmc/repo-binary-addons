@@ -1,1 +1,1 @@
-pvr.hts https://github.com/kodi-pvr/pvr.hts master
+pvr.hts https://github.com/kodi-pvr/pvr.hts Krypton
