@@ -1,1 +1,1 @@
-audiodecoder.stsound https://github.com/notspiff/audiodecoder.stsound master
+audiodecoder.stsound https://github.com/notspiff/audiodecoder.stsound v1.1.0
