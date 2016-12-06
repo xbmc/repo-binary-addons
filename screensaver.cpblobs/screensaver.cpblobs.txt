@@ -1,1 +1,1 @@
-screensaver.cpblobs https://github.com/notspiff/screensaver.cpblobs master
+screensaver.cpblobs https://github.com/notspiff/screensaver.cpblobs v1.1.0
