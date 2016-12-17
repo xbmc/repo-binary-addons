@@ -1,1 +1,1 @@
-visualization.vortex https://github.com/Montellese/visualization.vortex master
+visualization.vortex https://github.com/Montellese/visualization.vortex v1.6.0
