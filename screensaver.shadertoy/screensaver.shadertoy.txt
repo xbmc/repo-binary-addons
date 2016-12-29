@@ -1,1 +1,1 @@
-screensaver.shadertoy https://github.com/afedchin/screensaver.shadertoy v1.0.2
+screensaver.shadertoy https://github.com/afedchin/screensaver.shadertoy v1.1.0
