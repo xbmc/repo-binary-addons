@@ -1,1 +1,1 @@
-pvr.mythtv https://github.com/janbar/pvr.mythtv 4.12.10
+pvr.mythtv https://github.com/janbar/pvr.mythtv 4.12.11
