@@ -1,1 +1,1 @@
-pvr.mythtv https://github.com/janbar/pvr.mythtv 5.0.8
+pvr.mythtv https://github.com/janbar/pvr.mythtv 4.12.12
