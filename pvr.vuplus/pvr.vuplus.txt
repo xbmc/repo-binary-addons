@@ -1,1 +1,1 @@
-pvr.vuplus https://github.com/kodi-pvr/pvr.vuplus Krypton
+pvr.vuplus https://github.com/kodi-pvr/pvr.vuplus 2.4.6-Krypton

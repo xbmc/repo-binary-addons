@@ -1,1 +1,1 @@
-pvr.nextpvr https://github.com/kodi-pvr/pvr.nextpvr Krypton
+pvr.nextpvr https://github.com/kodi-pvr/pvr.nextpvr 2.4.11-Krypton

@@ -1,1 +1,1 @@
-pvr.stalker https://github.com/kodi-pvr/pvr.stalker Krypton
+pvr.stalker https://github.com/kodi-pvr/pvr.stalker 2.8.3-Krypton
