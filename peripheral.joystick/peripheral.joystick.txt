@@ -1,1 +1,1 @@
-peripheral.joystick https://github.com/xbmc/peripheral.joystick master
+peripheral.joystick https://github.com/xbmc/peripheral.joystick v1.3.1
