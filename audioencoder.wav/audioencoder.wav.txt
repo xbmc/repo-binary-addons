@@ -1,1 +1,1 @@
-audioencoder.wav https://github.com/xbmc/audioencoder.wav v1.1.0
+audioencoder.wav https://github.com/xbmc/audioencoder.wav master
