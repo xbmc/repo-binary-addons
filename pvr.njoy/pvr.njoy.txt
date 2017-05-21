@@ -1,1 +1,1 @@
-pvr.njoy https://github.com/kodi-pvr/pvr.njoy 2.4.2-Krypton
+pvr.njoy https://github.com/kodi-pvr/pvr.njoy 2.4.3-Krypton

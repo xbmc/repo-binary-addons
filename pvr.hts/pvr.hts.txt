@@ -1,1 +1,1 @@
-pvr.hts https://github.com/kodi-pvr/pvr.hts Krypton
+pvr.hts https://github.com/kodi-pvr/pvr.hts 3.4.24-Krypton

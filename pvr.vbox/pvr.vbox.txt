@@ -1,1 +1,1 @@
-pvr.vbox https://github.com/kodi-pvr/pvr.vbox 3.6.7
+pvr.vbox https://github.com/kodi-pvr/pvr.vbox 3.6.10-Krypton
