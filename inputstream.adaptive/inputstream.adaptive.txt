@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/peak3d/inputstream.adaptive 1.0.8_k17
+inputstream.adaptive https://github.com/peak3d/inputstream.adaptive Krypton
