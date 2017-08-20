@@ -1,1 +1,1 @@
-pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple 2.4.11-Krypton
+pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple 2.4.14-Krypton
