@@ -2,3 +2,4 @@ linux
 osx
 ios
 windows
+windowsstore
