@@ -1,1 +1,1 @@
-linux osx windows rbpi android
+linux osx windows rbpi android windowsstore
