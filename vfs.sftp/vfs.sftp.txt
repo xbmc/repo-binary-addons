@@ -1,0 +1,1 @@
+vfs.sftp https://github.com/notspiff/vfs.sftp master
