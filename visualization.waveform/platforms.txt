@@ -1,5 +1,1 @@
-linux
-osx
-ios
-windows
-windowsstore
+linux osx ios windows windowsstore
