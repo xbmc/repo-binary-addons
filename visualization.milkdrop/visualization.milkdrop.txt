@@ -1,1 +1,1 @@
-visualization.milkdrop https://github.com/afedchin/visualization.milkdrop master
+visualization.milkdrop https://github.com/xbmc/visualization.milkdrop master
