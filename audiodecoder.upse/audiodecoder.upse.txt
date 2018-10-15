@@ -1,0 +1,1 @@
+audiodecoder.upse https://github.com/xbmc/audiodecoder.upse master
