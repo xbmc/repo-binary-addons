@@ -1,1 +1,1 @@
-visualization.milkdrop https://github.com/afedchin/visualization.milkdrop Krypton-17.x
+visualization.milkdrop https://github.com/xbmc/visualization.milkdrop Krypton-17.x
