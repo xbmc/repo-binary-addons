@@ -1,1 +1,1 @@
-visualization.shadertoy https://github.com/notspiff/visualization.shadertoy master
+visualization.shadertoy https://github.com/xbmc/visualization.shadertoy master

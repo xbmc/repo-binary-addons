@@ -1,1 +1,1 @@
-vfs.rar https://github.com/notspiff/vfs.rar master
+vfs.rar https://github.com/xbmc/vfs.rar master

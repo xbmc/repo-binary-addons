@@ -1,1 +1,1 @@
-vfs.libarchive https://github.com/notspiff/vfs.libarchive master
+vfs.libarchive https://github.com/xbmc/vfs.libarchive master
