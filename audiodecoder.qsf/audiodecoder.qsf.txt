@@ -1,1 +1,1 @@
-audiodecoder.qsf https://github.com/notspiff/audiodecoder.qsf master
+audiodecoder.qsf https://github.com/xbmc/audiodecoder.qsf master

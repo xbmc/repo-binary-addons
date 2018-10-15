@@ -1,1 +1,1 @@
-audiodecoder.2sf https://github.com/notspiff/audiodecoder.2sf master
+audiodecoder.2sf https://github.com/xbmc/audiodecoder.2sf master
