@@ -1,1 +1,1 @@
-visualization.waveform https://github.com/notspiff/visualization.waveform master
+visualization.waveform https://github.com/xbmc/visualization.waveform master
