@@ -1,1 +1,1 @@
-audiodecoder.nosefart https://github.com/notspiff/audiodecoder.nosefart master
+audiodecoder.nosefart https://github.com/xbmc/audiodecoder.nosefart master

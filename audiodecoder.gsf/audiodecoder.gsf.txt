@@ -1,1 +1,1 @@
-audiodecoder.gsf https://github.com/notspiff/audiodecoder.gsf master
+audiodecoder.gsf https://github.com/xbmc/audiodecoder.gsf master

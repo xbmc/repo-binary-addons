@@ -1,1 +1,1 @@
-audiodecoder.modplug https://github.com/notspiff/audiodecoder.modplug master
+audiodecoder.modplug https://github.com/xbmc/audiodecoder.modplug master
