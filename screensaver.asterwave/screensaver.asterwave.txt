@@ -1,1 +1,1 @@
-screensaver.asterwave https://github.com/notspiff/screensaver.asterwave master
+screensaver.asterwave https://github.com/xbmc/screensaver.asterwave master
