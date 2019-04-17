@@ -1,1 +1,1 @@
-pvr.octonet https://github.com/DigitalDevices/pvr.octonet master
+pvr.octonet https://github.com/DigitalDevices/pvr.octonet Leia

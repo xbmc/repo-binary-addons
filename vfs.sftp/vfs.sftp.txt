@@ -1,1 +1,1 @@
-vfs.sftp https://github.com/xbmc/vfs.sftp master
+vfs.sftp https://github.com/xbmc/vfs.sftp Leia

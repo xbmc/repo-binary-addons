@@ -1,1 +1,1 @@
-screensaver.matrixtrails https://github.com/xbmc/screensaver.matrixtrails master
+screensaver.matrixtrails https://github.com/xbmc/screensaver.matrixtrails Leia

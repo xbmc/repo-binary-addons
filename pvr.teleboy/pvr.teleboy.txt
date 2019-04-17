@@ -1,1 +1,1 @@
-pvr.teleboy https://github.com/rbuehlma/pvr.teleboy master
+pvr.teleboy https://github.com/rbuehlma/pvr.teleboy Leia

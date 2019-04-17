@@ -1,1 +1,1 @@
-visualization.spectrum https://github.com/xbmc/visualization.spectrum master
+visualization.spectrum https://github.com/xbmc/visualization.spectrum Leia

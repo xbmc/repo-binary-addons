@@ -1,1 +1,1 @@
-audiodecoder.usf https://github.com/xbmc/audiodecoder.usf master
+audiodecoder.usf https://github.com/xbmc/audiodecoder.usf Leia

@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/peak3d/inputstream.adaptive master
+inputstream.adaptive https://github.com/peak3d/inputstream.adaptive Leia

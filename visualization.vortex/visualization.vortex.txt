@@ -1,1 +1,1 @@
-visualization.vortex https://github.com/xbmc/visualization.vortex master
+visualization.vortex https://github.com/xbmc/visualization.vortex Leia

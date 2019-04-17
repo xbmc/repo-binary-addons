@@ -1,1 +1,1 @@
-pvr.njoy https://github.com/kodi-pvr/pvr.njoy master
+pvr.njoy https://github.com/kodi-pvr/pvr.njoy Leia

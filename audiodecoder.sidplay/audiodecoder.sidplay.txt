@@ -1,1 +1,1 @@
-audiodecoder.sidplay https://github.com/xbmc/audiodecoder.sidplay master
+audiodecoder.sidplay https://github.com/xbmc/audiodecoder.sidplay Leia
