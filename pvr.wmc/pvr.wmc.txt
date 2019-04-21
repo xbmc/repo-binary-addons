@@ -1,1 +1,1 @@
-pvr.wmc https://github.com/kodi-pvr/pvr.wmc Leia
+pvr.wmc https://github.com/kodi-pvr/pvr.wmc Matrix
