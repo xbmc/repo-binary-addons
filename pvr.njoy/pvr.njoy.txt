@@ -1,1 +1,1 @@
-pvr.njoy https://github.com/kodi-pvr/pvr.njoy Leia
+pvr.njoy https://github.com/kodi-pvr/pvr.njoy Matrix

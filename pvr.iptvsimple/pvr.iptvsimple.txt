@@ -1,1 +1,1 @@
-pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple Leia
+pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple Matrix

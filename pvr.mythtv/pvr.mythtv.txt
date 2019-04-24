@@ -1,1 +1,1 @@
-pvr.mythtv https://github.com/janbar/pvr.mythtv Leia
+pvr.mythtv https://github.com/janbar/pvr.mythtv Matrix

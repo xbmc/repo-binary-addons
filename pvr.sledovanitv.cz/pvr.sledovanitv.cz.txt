@@ -1,1 +1,1 @@
-pvr.sledovanitv.cz https://github.com/palinek/pvr.sledovanitv.cz Leia
+pvr.sledovanitv.cz https://github.com/palinek/pvr.sledovanitv.cz Matrix

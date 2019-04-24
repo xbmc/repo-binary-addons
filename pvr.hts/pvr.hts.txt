@@ -1,1 +1,1 @@
-pvr.hts https://github.com/kodi-pvr/pvr.hts Leia
+pvr.hts https://github.com/kodi-pvr/pvr.hts Matrix
