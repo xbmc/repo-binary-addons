@@ -1,1 +1,1 @@
-audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Leia
+audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Matrix

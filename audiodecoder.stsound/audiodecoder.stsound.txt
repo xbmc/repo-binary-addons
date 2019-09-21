@@ -1,1 +1,1 @@
-audiodecoder.stsound https://github.com/xbmc/audiodecoder.stsound Leia
+audiodecoder.stsound https://github.com/xbmc/audiodecoder.stsound Matrix

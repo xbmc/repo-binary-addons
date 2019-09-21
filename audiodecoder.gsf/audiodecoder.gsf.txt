@@ -1,1 +1,1 @@
-audiodecoder.gsf https://github.com/xbmc/audiodecoder.gsf Leia
+audiodecoder.gsf https://github.com/xbmc/audiodecoder.gsf Matrix

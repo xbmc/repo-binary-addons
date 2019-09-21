@@ -1,1 +1,1 @@
-audiodecoder.sidplay https://github.com/xbmc/audiodecoder.sidplay Leia
+audiodecoder.sidplay https://github.com/xbmc/audiodecoder.sidplay Matrix

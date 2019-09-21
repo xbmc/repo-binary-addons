@@ -1,1 +1,1 @@
-audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Leia
+audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Matrix
