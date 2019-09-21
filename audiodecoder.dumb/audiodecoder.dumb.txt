@@ -1,1 +1,1 @@
-audiodecoder.dumb https://github.com/xbmc/audiodecoder.dumb Leia
+audiodecoder.dumb https://github.com/xbmc/audiodecoder.dumb Matrix

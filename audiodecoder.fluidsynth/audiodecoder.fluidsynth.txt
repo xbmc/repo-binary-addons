@@ -1,1 +1,1 @@
-audiodecoder.fluidsynth https://github.com/xbmc/audiodecoder.fluidsynth Leia
+audiodecoder.fluidsynth https://github.com/xbmc/audiodecoder.fluidsynth Matrix
