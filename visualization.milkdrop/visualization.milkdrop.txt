@@ -1,1 +1,1 @@
-visualization.milkdrop https://github.com/xbmc/visualization.milkdrop Leia
+visualization.milkdrop https://github.com/xbmc/visualization.milkdrop Matrix

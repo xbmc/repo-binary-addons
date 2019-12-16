@@ -1,1 +1,1 @@
-visualization.spectrum https://github.com/xbmc/visualization.spectrum Leia
+visualization.spectrum https://github.com/xbmc/visualization.spectrum Matrix
