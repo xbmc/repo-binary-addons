@@ -1,1 +1,1 @@
-peripheral.joystick https://github.com/xbmc/peripheral.joystick Leia
+peripheral.joystick https://github.com/xbmc/peripheral.joystick Matrix
