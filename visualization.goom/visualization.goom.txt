@@ -1,1 +1,1 @@
-visualization.goom https://github.com/notspiff/visualization.goom master
+visualization.goom https://github.com/xbmc/visualization.goom Leia
