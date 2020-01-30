@@ -1,1 +1,1 @@
-game.libretro https://github.com/kodi-game/game.libretro Leia
+game.libretro https://github.com/kodi-game/game.libretro Matrix
