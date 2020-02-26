@@ -1,1 +1,1 @@
-screensaver.shadertoy https://github.com/xbmc/screensaver.shadertoy Leia
+screensaver.shadertoy https://github.com/xbmc/screensaver.shadertoy Matrix

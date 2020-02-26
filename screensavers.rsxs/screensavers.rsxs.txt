@@ -1,1 +1,1 @@
-screensavers.rsxs https://github.com/xbmc/screensavers.rsxs Leia
+screensavers.rsxs https://github.com/xbmc/screensavers.rsxs Matrix

@@ -1,1 +1,1 @@
-screensaver.asteroids https://github.com/xbmc/screensaver.asteroids Leia
+screensaver.asteroids https://github.com/xbmc/screensaver.asteroids Matrix
