@@ -1,1 +1,1 @@
-imagedecoder.mpo https://github.com/xbmc/imagedecoder.mpo Leia
+imagedecoder.mpo https://github.com/xbmc/imagedecoder.mpo Matrix
