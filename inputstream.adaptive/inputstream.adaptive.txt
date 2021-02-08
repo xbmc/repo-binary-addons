@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/peak3d/inputstream.adaptive Matrix
+inputstream.adaptive https://github.com/xbmc/inputstream.adaptive Matrix
