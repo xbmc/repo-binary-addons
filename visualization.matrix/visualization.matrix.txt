@@ -1,1 +1,1 @@
-visualization.matrix https://github.com/xbmc/visualization.matrix Matrix
+visualization.matrix https://github.com/xbmc/visualization.matrix Nexus

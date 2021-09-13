@@ -1,1 +1,1 @@
-visualization.spectrum https://github.com/xbmc/visualization.spectrum Matrix
+visualization.spectrum https://github.com/xbmc/visualization.spectrum Nexus

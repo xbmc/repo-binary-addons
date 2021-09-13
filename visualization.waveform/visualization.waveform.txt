@@ -1,1 +1,1 @@
-visualization.waveform https://github.com/xbmc/visualization.waveform Matrix
+visualization.waveform https://github.com/xbmc/visualization.waveform Nexus

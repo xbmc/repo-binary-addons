@@ -1,1 +1,1 @@
-visualization.goom https://github.com/xbmc/visualization.goom Matrix
+visualization.goom https://github.com/xbmc/visualization.goom Nexus

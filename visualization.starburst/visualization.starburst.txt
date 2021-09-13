@@ -1,1 +1,1 @@
-visualization.starburst https://github.com/xbmc/visualization.starburst Matrix
+visualization.starburst https://github.com/xbmc/visualization.starburst Nexus

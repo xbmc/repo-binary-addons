@@ -1,1 +1,1 @@
-visualization.fishbmc https://github.com/xbmc/visualization.fishbmc Matrix
+visualization.fishbmc https://github.com/xbmc/visualization.fishbmc Nexus
