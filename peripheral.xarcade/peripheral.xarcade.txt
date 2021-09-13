@@ -1,1 +1,1 @@
-peripheral.xarcade https://github.com/kodi-game/peripheral.xarcade Matrix
+peripheral.xarcade https://github.com/kodi-game/peripheral.xarcade Nexus
