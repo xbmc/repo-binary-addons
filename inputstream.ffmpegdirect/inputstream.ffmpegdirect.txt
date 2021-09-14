@@ -1,1 +1,1 @@
-inputstream.ffmpegdirect https://github.com/xbmc/inputstream.ffmpegdirect Matrix
+inputstream.ffmpegdirect https://github.com/xbmc/inputstream.ffmpegdirect Nexus
