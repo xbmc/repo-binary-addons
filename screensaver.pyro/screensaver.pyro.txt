@@ -1,1 +1,1 @@
-screensaver.pyro https://github.com/xbmc/screensaver.pyro Matrix
+screensaver.pyro https://github.com/xbmc/screensaver.pyro Nexus

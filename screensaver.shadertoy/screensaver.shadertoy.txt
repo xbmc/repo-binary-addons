@@ -1,1 +1,1 @@
-screensaver.shadertoy https://github.com/xbmc/screensaver.shadertoy Matrix
+screensaver.shadertoy https://github.com/xbmc/screensaver.shadertoy Nexus

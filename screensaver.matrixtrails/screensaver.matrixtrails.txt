@@ -1,1 +1,1 @@
-screensaver.matrixtrails https://github.com/xbmc/screensaver.matrixtrails Matrix
+screensaver.matrixtrails https://github.com/xbmc/screensaver.matrixtrails Nexus

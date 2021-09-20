@@ -1,1 +1,1 @@
-linux
+linux osx ios tvos android
