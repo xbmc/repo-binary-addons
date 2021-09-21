@@ -1,1 +1,1 @@
-vfs.smb2 https://github.com/afedchin/vfs.smb2 Matrix
+vfs.smb2 https://github.com/afedchin/vfs.smb2 Nexus
