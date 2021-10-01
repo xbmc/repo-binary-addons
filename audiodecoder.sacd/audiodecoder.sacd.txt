@@ -1,1 +1,1 @@
-audiodecoder.sacd https://github.com/xbmc/audiodecoder.sacd Matrix
+audiodecoder.sacd https://github.com/xbmc/audiodecoder.sacd Nexus

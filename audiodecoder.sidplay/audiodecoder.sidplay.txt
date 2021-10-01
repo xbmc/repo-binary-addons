@@ -1,1 +1,1 @@
-audiodecoder.sidplay https://github.com/xbmc/audiodecoder.sidplay Matrix
+audiodecoder.sidplay https://github.com/xbmc/audiodecoder.sidplay Nexus
