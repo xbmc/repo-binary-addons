@@ -1,1 +1,1 @@
-pvr.octonet https://github.com/DigitalDevices/pvr.octonet Matrix
+pvr.octonet https://github.com/DigitalDevices/pvr.octonet Nexus

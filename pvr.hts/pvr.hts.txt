@@ -1,1 +1,1 @@
-pvr.hts https://github.com/kodi-pvr/pvr.hts Matrix
+pvr.hts https://github.com/kodi-pvr/pvr.hts Nexus

@@ -1,1 +1,1 @@
-pvr.pctv https://github.com/kodi-pvr/pvr.pctv Matrix
+pvr.pctv https://github.com/kodi-pvr/pvr.pctv Nexus

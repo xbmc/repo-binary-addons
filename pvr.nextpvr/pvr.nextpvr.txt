@@ -1,1 +1,1 @@
-pvr.nextpvr https://github.com/kodi-pvr/pvr.nextpvr Matrix
+pvr.nextpvr https://github.com/kodi-pvr/pvr.nextpvr Nexus

@@ -1,1 +1,1 @@
-pvr.vdr.vnsi https://github.com/kodi-pvr/pvr.vdr.vnsi Matrix
+pvr.vdr.vnsi https://github.com/kodi-pvr/pvr.vdr.vnsi Nexus

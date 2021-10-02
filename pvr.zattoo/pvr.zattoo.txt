@@ -1,1 +1,1 @@
-pvr.zattoo https://github.com/rbuehlma/pvr.zattoo Matrix
+pvr.zattoo https://github.com/rbuehlma/pvr.zattoo Nexus

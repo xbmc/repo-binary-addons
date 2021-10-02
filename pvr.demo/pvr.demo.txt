@@ -1,1 +1,1 @@
-pvr.demo https://github.com/kodi-pvr/pvr.demo Matrix
+pvr.demo https://github.com/kodi-pvr/pvr.demo Nexus

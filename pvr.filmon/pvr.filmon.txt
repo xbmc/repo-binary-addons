@@ -1,1 +1,1 @@
-pvr.filmon https://github.com/kodi-pvr/pvr.filmon Matrix
+pvr.filmon https://github.com/kodi-pvr/pvr.filmon Nexus
