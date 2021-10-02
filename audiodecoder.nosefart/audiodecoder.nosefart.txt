@@ -1,1 +1,1 @@
-audiodecoder.nosefart https://github.com/xbmc/audiodecoder.nosefart Matrix
+audiodecoder.nosefart https://github.com/xbmc/audiodecoder.nosefart Nexus

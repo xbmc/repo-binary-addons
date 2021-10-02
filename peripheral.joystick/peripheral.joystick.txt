@@ -1,1 +1,1 @@
-peripheral.joystick https://github.com/xbmc/peripheral.joystick Matrix
+peripheral.joystick https://github.com/xbmc/peripheral.joystick Nexus

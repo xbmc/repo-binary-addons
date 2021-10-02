@@ -1,1 +1,1 @@
-pvr.vbox https://github.com/kodi-pvr/pvr.vbox Matrix
+pvr.vbox https://github.com/kodi-pvr/pvr.vbox Nexus

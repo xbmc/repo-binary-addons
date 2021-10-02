@@ -1,1 +1,1 @@
-audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Matrix
+audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Nexus

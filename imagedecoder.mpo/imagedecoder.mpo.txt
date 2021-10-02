@@ -1,1 +1,1 @@
-imagedecoder.mpo https://github.com/xbmc/imagedecoder.mpo Matrix
+imagedecoder.mpo https://github.com/xbmc/imagedecoder.mpo Nexus

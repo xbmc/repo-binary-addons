@@ -1,1 +1,1 @@
-audiodecoder.openmpt https://github.com/xbmc/audiodecoder.openmpt Matrix
+audiodecoder.openmpt https://github.com/xbmc/audiodecoder.openmpt Nexus

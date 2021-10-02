@@ -1,1 +1,1 @@
-pvr.mediaportal.tvserver https://github.com/kodi-pvr/pvr.mediaportal.tvserver Matrix
+pvr.mediaportal.tvserver https://github.com/kodi-pvr/pvr.mediaportal.tvserver Nexus

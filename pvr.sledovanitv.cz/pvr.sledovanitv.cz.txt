@@ -1,1 +1,1 @@
-pvr.sledovanitv.cz https://github.com/palinek/pvr.sledovanitv.cz Matrix
+pvr.sledovanitv.cz https://github.com/palinek/pvr.sledovanitv.cz Nexus

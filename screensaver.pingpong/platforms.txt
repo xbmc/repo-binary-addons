@@ -1,1 +1,1 @@
-linux windows windowsstore osx
+all

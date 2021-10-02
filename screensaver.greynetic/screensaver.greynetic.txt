@@ -1,1 +1,1 @@
-screensaver.greynetic https://github.com/xbmc/screensaver.greynetic Matrix
+screensaver.greynetic https://github.com/xbmc/screensaver.greynetic Nexus

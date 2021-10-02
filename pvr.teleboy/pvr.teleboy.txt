@@ -1,1 +1,1 @@
-pvr.teleboy https://github.com/rbuehlma/pvr.teleboy Matrix
+pvr.teleboy https://github.com/rbuehlma/pvr.teleboy Nexus

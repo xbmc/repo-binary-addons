@@ -1,1 +1,1 @@
-pvr.njoy https://github.com/kodi-pvr/pvr.njoy Matrix
+pvr.njoy https://github.com/kodi-pvr/pvr.njoy Nexus

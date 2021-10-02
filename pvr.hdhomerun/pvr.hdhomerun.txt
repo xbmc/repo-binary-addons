@@ -1,1 +1,1 @@
-pvr.hdhomerun https://github.com/kodi-pvr/pvr.hdhomerun Matrix
+pvr.hdhomerun https://github.com/kodi-pvr/pvr.hdhomerun Nexus

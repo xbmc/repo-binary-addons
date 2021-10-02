@@ -1,1 +1,1 @@
-audiodecoder.usf https://github.com/xbmc/audiodecoder.usf Matrix
+audiodecoder.usf https://github.com/xbmc/audiodecoder.usf Nexus

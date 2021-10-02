@@ -1,1 +1,1 @@
-pvr.stalker https://github.com/kodi-pvr/pvr.stalker Matrix
+pvr.stalker https://github.com/kodi-pvr/pvr.stalker Nexus

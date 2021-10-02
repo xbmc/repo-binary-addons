@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/xbmc/inputstream.adaptive Matrix
+inputstream.adaptive https://github.com/xbmc/inputstream.adaptive Nexus

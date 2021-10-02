@@ -1,1 +1,1 @@
-pvr.waipu https://github.com/flubshi/pvr.waipu Matrix
+pvr.waipu https://github.com/flubshi/pvr.waipu Nexus

@@ -1,1 +1,1 @@
-visualization.pictureit https://github.com/linuxwhatelse/visualization.pictureit Matrix
+visualization.pictureit https://github.com/linuxwhatelse/visualization.pictureit Nexus

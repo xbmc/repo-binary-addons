@@ -1,1 +1,1 @@
-audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Matrix
+audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Nexus
