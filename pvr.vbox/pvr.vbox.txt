@@ -1,1 +1,1 @@
-pvr.vbox https://github.com/kodi-pvr/pvr.vbox Nexus
+pvr.vbox https://github.com/kodi-pvr/pvr.vbox Omega
