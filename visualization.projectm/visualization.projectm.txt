@@ -1,1 +1,1 @@
-visualization.projectm https://github.com/xbmc/visualization.projectm Nexus
+visualization.projectm https://github.com/xbmc/visualization.projectm Omega
