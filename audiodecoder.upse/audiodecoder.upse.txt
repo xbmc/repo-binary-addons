@@ -1,1 +1,1 @@
-audiodecoder.upse https://github.com/xbmc/audiodecoder.upse Nexus
+audiodecoder.upse https://github.com/xbmc/audiodecoder.upse Omega
