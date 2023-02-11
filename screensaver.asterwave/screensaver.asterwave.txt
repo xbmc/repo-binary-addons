@@ -1,1 +1,1 @@
-screensaver.asterwave https://github.com/xbmc/screensaver.asterwave Nexus
+screensaver.asterwave https://github.com/xbmc/screensaver.asterwave Omega
