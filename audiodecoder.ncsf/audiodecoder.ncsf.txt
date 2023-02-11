@@ -1,1 +1,1 @@
-audiodecoder.ncsf https://github.com/xbmc/audiodecoder.ncsf Nexus
+audiodecoder.ncsf https://github.com/xbmc/audiodecoder.ncsf Omega
