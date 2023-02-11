@@ -1,1 +1,1 @@
-audiodecoder.stsound https://github.com/xbmc/audiodecoder.stsound Nexus
+audiodecoder.stsound https://github.com/xbmc/audiodecoder.stsound Omega
