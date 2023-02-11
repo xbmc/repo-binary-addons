@@ -1,1 +1,1 @@
-screensaver.cpblobs https://github.com/xbmc/screensaver.cpblobs Nexus
+screensaver.cpblobs https://github.com/xbmc/screensaver.cpblobs Omega
