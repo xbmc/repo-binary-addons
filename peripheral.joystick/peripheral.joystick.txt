@@ -1,1 +1,1 @@
-peripheral.joystick https://github.com/xbmc/peripheral.joystick Nexus
+peripheral.joystick https://github.com/xbmc/peripheral.joystick Omega
