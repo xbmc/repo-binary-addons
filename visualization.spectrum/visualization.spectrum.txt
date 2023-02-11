@@ -1,1 +1,1 @@
-visualization.spectrum https://github.com/xbmc/visualization.spectrum Nexus
+visualization.spectrum https://github.com/xbmc/visualization.spectrum Omega
