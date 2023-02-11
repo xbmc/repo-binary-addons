@@ -1,1 +1,1 @@
-inputstream.ffmpegdirect https://github.com/xbmc/inputstream.ffmpegdirect Nexus
+inputstream.ffmpegdirect https://github.com/xbmc/inputstream.ffmpegdirect Omega
