@@ -1,1 +1,1 @@
-screensaver.asteroids https://github.com/xbmc/screensaver.asteroids Nexus
+screensaver.asteroids https://github.com/xbmc/screensaver.asteroids Omega
