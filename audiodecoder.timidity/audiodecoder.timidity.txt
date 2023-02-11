@@ -1,1 +1,1 @@
-audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Nexus
+audiodecoder.timidity https://github.com/xbmc/audiodecoder.timidity Omega
