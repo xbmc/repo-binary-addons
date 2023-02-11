@@ -1,1 +1,1 @@
-pvr.njoy https://github.com/kodi-pvr/pvr.njoy Nexus
+pvr.njoy https://github.com/kodi-pvr/pvr.njoy Omega
