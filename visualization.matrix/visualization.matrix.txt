@@ -1,1 +1,1 @@
-visualization.matrix https://github.com/xbmc/visualization.matrix Nexus
+visualization.matrix https://github.com/xbmc/visualization.matrix Omega
