@@ -1,1 +1,1 @@
-audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Nexus
+audiodecoder.wsr https://github.com/xbmc/audiodecoder.wsr Omega
