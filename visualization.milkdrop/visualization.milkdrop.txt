@@ -1,1 +1,1 @@
-visualization.milkdrop https://github.com/xbmc/visualization.milkdrop Nexus
+visualization.milkdrop https://github.com/xbmc/visualization.milkdrop Omega
