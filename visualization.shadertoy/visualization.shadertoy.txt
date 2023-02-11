@@ -1,1 +1,1 @@
-visualization.shadertoy https://github.com/xbmc/visualization.shadertoy Nexus
+visualization.shadertoy https://github.com/xbmc/visualization.shadertoy Omega
