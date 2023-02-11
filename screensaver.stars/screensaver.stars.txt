@@ -1,1 +1,1 @@
-screensaver.stars https://github.com/xbmc/screensaver.stars Nexus
+screensaver.stars https://github.com/xbmc/screensaver.stars Omega
