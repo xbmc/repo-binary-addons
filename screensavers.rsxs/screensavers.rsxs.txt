@@ -1,1 +1,1 @@
-screensavers.rsxs https://github.com/xbmc/screensavers.rsxs Nexus
+screensavers.rsxs https://github.com/xbmc/screensavers.rsxs Omega
