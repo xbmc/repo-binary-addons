@@ -1,1 +1,1 @@
-audiodecoder.dumb https://github.com/xbmc/audiodecoder.dumb Nexus
+audiodecoder.dumb https://github.com/xbmc/audiodecoder.dumb Omega
