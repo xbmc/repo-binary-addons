@@ -1,1 +1,1 @@
-audiodecoder.hvl https://github.com/xbmc/audiodecoder.hvl Nexus
+audiodecoder.hvl https://github.com/xbmc/audiodecoder.hvl Omega
