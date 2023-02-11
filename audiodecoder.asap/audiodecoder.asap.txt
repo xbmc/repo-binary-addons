@@ -1,1 +1,1 @@
-audiodecoder.asap https://github.com/xbmc/audiodecoder.asap Nexus
+audiodecoder.asap https://github.com/xbmc/audiodecoder.asap Omega
