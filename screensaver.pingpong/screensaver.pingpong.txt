@@ -1,1 +1,1 @@
-screensaver.pingpong https://github.com/xbmc/screensaver.pingpong Nexus
+screensaver.pingpong https://github.com/xbmc/screensaver.pingpong Omega
