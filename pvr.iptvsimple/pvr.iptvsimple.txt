@@ -1,1 +1,1 @@
-pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple Nexus
+pvr.iptvsimple https://github.com/kodi-pvr/pvr.iptvsimple Omega
