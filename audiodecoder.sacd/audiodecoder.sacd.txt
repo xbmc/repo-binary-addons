@@ -1,1 +1,1 @@
-audiodecoder.sacd https://github.com/xbmc/audiodecoder.sacd Nexus
+audiodecoder.sacd https://github.com/xbmc/audiodecoder.sacd Omega
