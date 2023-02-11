@@ -1,1 +1,1 @@
-audiodecoder.nosefart https://github.com/xbmc/audiodecoder.nosefart Nexus
+audiodecoder.nosefart https://github.com/xbmc/audiodecoder.nosefart Omega
