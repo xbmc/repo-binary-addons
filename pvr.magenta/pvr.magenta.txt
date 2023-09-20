@@ -1,0 +1,1 @@
+pvr.magenta https://github.com/nirvana-7777/pvr.magenta Omega
