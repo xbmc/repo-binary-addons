@@ -1,1 +1,1 @@
-pvr.kofin https://github.com/kontell/pvr.kofin Piers
+pvr.kofin https://github.com/kodi-pvr/pvr.kofin Piers
